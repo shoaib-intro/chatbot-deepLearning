@@ -1,2 +1,3 @@
-# chatbot-deepLearning
-chatbot using deep learning model
+# Chatbot
+>> NLP project chatbot using deep learning model
+
